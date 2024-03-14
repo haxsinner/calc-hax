@@ -1,0 +1,41 @@
+{
+    "name": "calc-hax",
+    "version": "1.0.0",
+    "description": "A simple calculator program written in Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "are-arrays": "^1.0.0",
+      "are-objects": "^1.0.0",
+      "calc-hax": "^1.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/haxsinner/calc-hax.git"
+    },
+    "homepage": "https://github.com/haxsinner/calc-hax",
+    "keywords": [
+      "calc",
+      "calc-hax",
+      "calculator",
+      "addition",
+      "subtraction",
+      "multiplication",
+      "division",
+      "arithmetic",
+      "math",
+      "mathematics",
+      "sum",
+      "add",
+      "tong",
+      "cong"
+    ],
+    "author": "haxsinner",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/haxsinner/calc-hax/issues"
+    }
+  }
+  
